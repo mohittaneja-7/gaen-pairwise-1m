@@ -1,0 +1,17 @@
+
+Odd run. I think the new GAEN turned itself off a few
+mins after the device booted. Had to go do the "turn
+on debug mode with no sig checking and re-enable the
+app.
+
+The putlong script also hung in that state, not sure
+if that's an issue really.
+
+Doing it over after re-enabling app.
+
+Turns out there were two config/google/COVID settings
+apps running in background while GPS was updated so
+I guess the old one didn't work and was holding the
+socket open or something. Had to kill both those. A
+reboot didn't do it.
+

@@ -1,0 +1,119 @@
+b''b'' bronze_to_plu:48-49:ExposureInformation<date: Tue Jun 09 19:40:00
+GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 0, 44]>bronze_to_plu:48-50:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 0,
+44]>bronze_to_plu:48-51:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 0, 44]>bronze_to_plu:48-52:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 0,
+44]>bronze_to_plu:48-53:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 0, 44]>bronze_to_plu:48-55:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 0,
+44]>bronze_to_plu:48-54:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 0, 44]>bronze_to_plu:48-58:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 0,
+44]>bronze_to_plu:48-59:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 0, 44]>bronze_to_plu:48-57:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 0,
+44]>bronze_to_plu:48-60:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 0, 44]>bronze_to_plu:48-62:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 0,
+44]>bronze_to_plu:48-56:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 0, 44]>bronze_to_plu:48-61:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 0,
+44]>bronze_to_plu:48-63:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 22, 22]>bronze_to_plu:48-64:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 37,
+6]>bronze_to_plu:48-65:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 37, 6]>bronze_to_plu:48-67:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 44,
+0]>bronze_to_plu:48-66:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 37, 6]>bronze_to_plu:48-69:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 44,
+0]>bronze_to_plu:48-71:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 44, 0]>bronze_to_plu:48-68:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 44,
+0]>bronze_to_plu:48-70:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 44, 0]>bronze_to_plu:48-73:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 44,
+0]>bronze_to_plu:48-72:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 44, 0]>bronze_to_plu:48-74:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 44,
+0]>bronze_to_plu:48-75:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 44, 0]>bronze_to_plu:48-76:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 44,
+0]>bronze_to_plu:48-77:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 44, 0]>bronze_to_plu:48-85:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 44,
+0]>bronze_to_plu:48-80:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 44, 0]>bronze_to_plu:48-90:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 44,
+0]>bronze_to_plu:48-78:ExposureInformation<date: Tue Jun 09 19:40:00 GMT+01:00
+2020, dateMillisSinceEpoch: 1591728000000, durationMinutes: 30,
+attenuationValue: 63, transmissionRiskLevel: 1, totalRiskScore: 256,
+attenuationDurations: [0, 44, 0]>bronze_to_plu:48-100:ExposureInformation<date:
+Tue Jun 09 19:40:00 GMT+01:00 2020, dateMillisSinceEpoch: 1591728000000,
+durationMinutes: 30, attenuationValue: 63, transmissionRiskLevel: 1,
+totalRiskScore: 256, attenuationDurations: [0, 44, 0]>

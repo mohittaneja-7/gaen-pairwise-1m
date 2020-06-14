@@ -1,0 +1,1 @@
+ur xiomi -> sat sony
