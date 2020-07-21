@@ -62,10 +62,10 @@ can re-use for many tests.
 - Stop sending RPIs on tx
 - Note test run end time
 - Connect tx to computer via USB
-    - Extract logcat data using the 'grab-trace-data.sh'
+    - Extract logcat data using the [grab-trace-data.sh](./grab-trace-data.sh)
       script
 - Connect rx to computer via USB
-    - Extract logcat data using the 'grab-trace-data.sh'
+    - Extract logcat data using the [grab-trace-data.sh](./grab-trace-data.sh)
       script
 - For a device named foo that'll produce:
     - foo.log - the raw logcat data
